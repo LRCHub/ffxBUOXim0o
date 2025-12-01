@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Build a Bitch",
+  "base_artist": "Bella Poarch",
+  "createdAt": "2025-12-01T04:37:55.091553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/01_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/02_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Build-A-Bitch",
+      "artist": "Mr. MFN eXquire",
+      "has_synced": false,
+      "path": "select/03_Build-A-Bitch_Mr._MFN_eXquire.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Build-A-Bitch",
+      "artist": "Mr. Muthafuckin’ eXquire",
+      "has_synced": false,
+      "path": "select/04_Build-A-Bitch_Mr._Muthafuckin’_eXquire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Build A Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/05_Build_A_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/06_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/07_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Build A Bitch",
+      "artist": "Rain Paris",
+      "has_synced": true,
+      "path": "select/08_Build_A_Bitch_Rain_Paris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/09_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/10_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Build A Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/11_Build_A_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/12_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "OR3O",
+      "has_synced": true,
+      "path": "select/13_Build_a_Bitch_OR3O.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Play Date Build a Bitch",
+      "artist": "Farizki",
+      "has_synced": true,
+      "path": "select/14_Play_Date_Build_a_Bitch_Farizki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/15_Build_a_Bitch_Bella_Poarch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": false,
+      "path": "select/pl_01_Build_a_Bitch_Bella_Poarch.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": false,
+      "path": "select/pl_02_Build_a_Bitch_Bella_Poarch.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": false,
+      "path": "select/pl_03_Build_a_Bitch_Bella_Poarch.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Build a Bitch",
+      "artist": "Bella Poarch",
+      "has_synced": false,
+      "path": "select/pl_04_Build_a_Bitch_Bella_Poarch.txt"
+    }
+  ]
+}
