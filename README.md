@@ -1,0 +1,54 @@
+# Bella Poarch – Build a Bitch
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.25] This ain't Build-A-Bitch (A bitch)
+[00:03.17] You don't get to pick and choose
+[00:05.08] Different ass and bigger boobs
+[00:07.59] If my eyes are brown or blue
+[00:10.09] This ain't Build-A-Bitch (A bitch)
+[00:11.93] I'm filled with flaws and attitude
+[00:13.92] So if you need perfect, I'm not built for you (Yeah)
+[00:39.92] 
+[00:19.88] Bob the Builder broke my heart
+[00:21.89] Told me I need fixing
+[00:23.71] Said that I'm just nuts and bolts
+[00:25.80] Lotta parts were missing
+[00:28.77] Curvy like a cursive font
+[00:30.84] Virgin and a vixen
+[00:33.46] That's the kind of girl he wants
+[00:35.92] But he forgot
+[00:42.42] 
+[00:36.75] This ain't Build-A-Bitch (A bitch)
+[00:39.85] You don't get to pick and choose
+[00:42.29] Different ass and bigger boobs
+[00:44.78] If my eyes are brown or blue
+[00:46.56] This ain't Build-A-Bitch (A bitch)
+[00:48.88] I'm filled with flaws and attitude
+[00:51.26] So if you need perfect, I'm not built for you (One, two, three, ooh)
+[01:25.26] 
+[00:56.83] La-la-la-la-la-la-la-la-la-la-la
+[01:01.41] La-la-la-la-la-la-la-la-la-la-la
+[01:17.41] 
+[01:05.96] Boys are always playing dolls
+[01:08.24] Looking for their Barbie
+[01:10.28] They don't look like Ken at all
+[01:13.26] Hardly have a heartbeat
+[01:15.20] Need someone who falls apart
+[01:17.52] So he can play Prince Charming
+[01:19.98] If that's the kind of girl he wants
+[01:22.33] Then he forgot
+[01:29.33] 
+[01:23.69] This ain't Build-A-Bitch (A bitch)
+[01:25.56] You don't get to pick and choose
+[01:28.53] Different ass and bigger boobs
+[01:31.08] If my eyes are brown or blue
+[01:33.48] This ain't Build-A-Bitch (A bitch)
+[01:35.76] I'm filled with flaws and attitude
+[01:38.16] So if you need perfect, I'm not built for you (One, two, three)
+[02:09.66] 
+[01:43.37] La-la-la-la-la-la-la-la-la-la-la
+[01:47.86] La-la-la-la-la-la-la-la-la-la-la
+[01:51.96] La-la-la-la-la-la-la-la, la-la-la-la-la-la-la
+```
